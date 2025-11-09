@@ -1,5 +1,5 @@
 .task-list{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     list-style-type: none;
 }
